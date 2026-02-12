@@ -1,0 +1,1 @@
+The Bazaar between time is a student run commercial square. Students of the [[Zultraxi Academy]] sell their wares, whether it be spell scrolls, magical items, or information. It get's its name from how it is always open, and accessible from anywhere if you know how. Sometimes patrons find themselves shopping for hours, only to return only minutes after they left. 

@@ -11,3 +11,5 @@ Inspired by many different works including but not limited to:
 * Lovecraftian Fiction
 * Supreme Magus
 * Shadow Slave
+* Risk of Rain
+* Subnautica

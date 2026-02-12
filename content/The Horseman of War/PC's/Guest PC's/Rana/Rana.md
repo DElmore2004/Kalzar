@@ -1,0 +1,1 @@
+The champion of [[Renstal, The Last Ember]]

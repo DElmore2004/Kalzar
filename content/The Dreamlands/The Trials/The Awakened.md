@@ -1,0 +1,1 @@
+Awakened are individuals that are aware of the existence of the other realm, be it [[the Dreamlands]] for Kalzar residents, and vice versa. These individuals are tracked and sought out by powerful individuals across the realms for a variety of reasons, be it to infiltrate the other realm, almost pyramid scheme style, to seek other awakened, or for information.

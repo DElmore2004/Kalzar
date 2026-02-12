@@ -1,0 +1,1 @@
+The first stage in the Trials, going to the other side and killing your other half. [[The Awakened|Awakened]] who complete this stage are known as a Dormant. This Trial is to prepare and refine [[The Awakened|Awakened]] for the trials to come. All in mind, body and soul.

@@ -1,0 +1,2 @@
+![[Pasted image 20260212141512.png]]
+The black gates of [[the Dreamlands]] are the barrier between the realm of dreams and the waking world. Guarded by the mother of owls [[Iliak 'Nuam]]. Her many eyes gaze upon [[The Awakened]].  The gates are guarded by [[Bruhundak and Vrazsuruk]], two [[Godspawn]] of [[Relzoura of the Mist]]. Bruhundak is visualized above. A ghatsly, feathered bipedal figure that emerges from the mist. 

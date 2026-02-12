@@ -17,6 +17,8 @@ Inspired by many different works including but not limited to:
 * Lovecraftian Fiction
 * Supreme Magus
 * Shadow Slave
+* Subnautica
+* Risk of Rain 2
 
 This document is created by Quartz
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.

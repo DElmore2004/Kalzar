@@ -1,0 +1,2 @@
+The champion of [[Tylirum, The Corrupted Violinist]]
+Rapscallion was born into poverty. Shuffled from guild to foster family to poor houses. Rapscallion's full name is actually Rapscallion of [[Wystala]], being born in the capital city of the [[Trukalian Empire]]. While being shuffled, he saw and experienced some of the worst parts of civilization. So instead of trying to improve and work towards bettering himself and society, he embraced that this is a world full of tragedy and grief.
