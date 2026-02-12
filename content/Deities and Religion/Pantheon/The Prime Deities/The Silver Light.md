@@ -1,0 +1,4 @@
+Being of Creation- The Silver Light
+Domains: Light, Arcana, Forge
+Divine Symbol: An 8 pointed Silver Star over two open hands
+The Silver Light is the start of Kalzar, the start of everything and anything. It spends eternity sleeping, and when it wakes, destruction follows in it’s wake. The Silver Light is never fully conscious of what it’s power does in its slumber, occasionally, but rarely, it’s power seeks out individuals and infuses them with the power of the Silver Light, these individuals are few and VERY FAR inbetween, but when this phenomenon occurs, nothing short of miracles occur. These people may become leaders of empires, religions, or even oracles for the future.
