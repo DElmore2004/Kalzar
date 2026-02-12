@@ -1,0 +1,9 @@
+Goddess of Blood, and Death- Tevara, Mistress of the White Cloth CN
+Domains: Death, War, Life
+Divine Symbol: A white heart, cracked, trickling a drop of red blood
+*“Death comes to those that bleed, how quickly is up to the decision of them and those around them”*
+Tevara is a reminder of mortality, which is a sense of unrelenting dread to some who fear death, but a blinding beacon of hope to those who face foes far greater than they. Tevara embodies the saying “If it bleeds, you can kill it”, but not a being of violence, she can also pinpoint the finer aspects of mortality, appreciating the smaller details, and living life to its fullest extent. Tevara is also known to have a rage surpassing other deities, blood boils to her fury, and none have ever been known to survive her after being truly enraged.
+A marble statue of the Mistress of the White Cloth may depict a womanly appearance dressed in all white, flowing robes long past reach the ground, a blusher blocks her face, but followers that receive visions claim to catch glances of a dark skinned woman, some catch blood red eyes, and others catch nothing but white robes.
+Tevara speaks to her followers, and only visits her followers under dire circumstances, many may get visions, but rarely do they catch sight of the Mistress.
+Tevara is the one of the only mortals to reach godhood, and it was only after reaching a state of vampirism and finding a new understanding of death, did [[Mehala, The Golden Light|Mehala]] grant Tevara godhood. 
+In her divine state, Tevara carries a very calm demeanor to all of her followers, whispering morale to her followers and bolstering her warriors with the knowledge that death is swift to those that don’t believe in it, and those on the opposite side of the war to herself. She cannot be found outside of the Divine Realm other than in dreams.
