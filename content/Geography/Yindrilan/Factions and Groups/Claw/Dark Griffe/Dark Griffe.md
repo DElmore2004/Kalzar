@@ -1,0 +1,1 @@
+The Dark Griffe are a clan of ratfolk that worship [[The Code]], a machine god-like entity of --REDACTED-- tech gone mad.

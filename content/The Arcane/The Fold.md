@@ -1,0 +1,1 @@
+The Fold is the inbetween of everything at every scale. Whether it is the inter and intramolecular forces of molecules, or the gravitational impacts on celestial bodies, the Fold is the gap. All magic stems from the Fold, and under the watchful eye of [[Aleria, Guardian of the Fold]], no tampering or misuse is ever concieved, nevermind permitted.

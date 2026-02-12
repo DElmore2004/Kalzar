@@ -1,0 +1,1 @@
+The mining guild housed within [[Kazak'tur]], they were the last bastion of able bodied people and those with fighting experience when [[Kazak'tur]] fell. They were slowly consumed by the [[Bone Coatl]]. 

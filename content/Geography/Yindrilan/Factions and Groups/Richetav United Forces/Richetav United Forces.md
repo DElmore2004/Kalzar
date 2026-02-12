@@ -1,0 +1,3 @@
+The Richetav United Forces are a group of Dynasties divided by their own quarries, some include resource scrounging, interpersonal backstabbing, even to lengths over political arranged marriages. The land the dynasties rule over has it's fair share of problems as well, from the biting winds of [[Usrailak]], to the ever encroaching wasteland of [[The Cursed Expanse]].
+
+There are numerous factions within the Richetav United Forces

@@ -1,0 +1,3 @@
+[[The Shards of Eorza]] come from the old continent island of [[Eorza]], until a fight between [[Yokrot, The Blind General]] and the [[The Leviathan, Verizdao]] shattered the island into many pieces. This massive continental change happened so quickly that magma rose quickly to the surface, creating the [[Setting Sun Volcano]], and when the [[Second Awakening]] occured, magical ley lines formed on Kalzar, and for whatever odd reason, a mountain of ice formed on the broken continent.
+
+The main culture is a tribal conglomeration of different families and cultures. 

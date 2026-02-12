@@ -1,0 +1,1 @@
+Gimgam Bomb is a [[Dark Griffe]] initially found in the undercity beneath [[Kazak'tur]]. 

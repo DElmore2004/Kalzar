@@ -1,0 +1,1 @@
+After humanity was created after the [[Cataclysm]], in about 500 years, Humanity had progressed to what can be considered the "Dark Ages" the typical setting considered for fantasy. When [[Mehala, The Golden Light]] created humanity, she had instilled in them basic communication skills and the ability to use their bodies to the fullest extent.

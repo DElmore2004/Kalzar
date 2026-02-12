@@ -1,0 +1,4 @@
+![[Pasted image 20260212120753.png]]The guardian of [[the Black Gates]]. Her ever watching eyes call for the Awakened to cross into the Waking World. She holds domain over knowledge of traversing between the two and her word is law and her gaze is unbreaking. 
+
+[[Seraphina]] is the champion of Iliak 'Nuam. She was selected to Awaken for her spirit and tenacity, she also is skilled in arcane arts. After venturing to the waking world, and succeeding in her [[Dormir]], she returned to the Dreamlands. Iliak 'Nuam took Seraphina under her wing and accepted her as her champion. Seraphina now spends her time in the Abyss of the Dreamlands, fighting the Nightmare Spawns of --REDACTED-- that attempt to absorb the Dreamlands into nothing.
+She has 93 eyes across her entire form, many of them closed, observing through an [[Trial of the 93 Eyes|Eye of the Mist]], fighting their endless fight in the Nightmare Waste.
