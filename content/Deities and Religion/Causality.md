@@ -1,0 +1,5 @@
+This is the term given to one of the Divine Commandments from [[Mehala, The Golden Light]]. Due to the immense power given to Gods by their divine portfolios and ability to reify belief and worship, there needed to be constraints on their ability to impact the world of Kalzar and the people in it, as to not replicate the same conditions that caused [[The First Awakening]]. 
+
+[[Mehala, The Golden Light|Mehala]] created a divine <Artifact/Concept> that actively runs at all times to dynamically restrain the power allotted to Gods that are using their power on the Mortal Planes. For example, if a God is attempting to descend and incarnate a physical form, depending on multiple variables, including surrounding geography, individuals, volatility of nearby arcane facets, and intent, Causality limits their ability to bring out the full extent of their divine power. 
+
+Gods can supersede these limits if they wish. Gods have been documented "pushing against their restraints", and using more power than they were "allotted", this does come with a Causal Penalty, which is decided depending on the severity of the infraction.
