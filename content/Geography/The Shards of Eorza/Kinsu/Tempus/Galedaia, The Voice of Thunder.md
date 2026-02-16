@@ -1,0 +1,1 @@
+Galedaia is a middle aged Katari woman and the leader of [[Tempus|Kinsu Tempus]]. She grew up in [[Malai|Kinsu Malai]], learning about how the natural world impacts the way of life of the people that live in it. 
