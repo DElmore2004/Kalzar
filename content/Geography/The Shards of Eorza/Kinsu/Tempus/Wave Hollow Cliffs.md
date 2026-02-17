@@ -1,0 +1,3 @@
+The amphitheater used by [[Tempus|Kinsu Tempus]] in ceremonies. The cliffs are a bunch of basaltic columns that are actually hollowed out underneath. During performances, the waves reverberate underneath the amphitheater along with the beat. Some of the basalt columns have concave basins filled with water for use in performances. Many of the actors stand in these basins. 
+
+The Wave Hollow Cliffs are on the west side of the island, allowing for the sun to set over the amphitheater for [[Storm Sun Dance|Storm Sun Dances]]. 
