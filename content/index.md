@@ -19,6 +19,9 @@ Inspired by many different works including but not limited to:
 * Shadow Slave
 * Subnautica
 * Risk of Rain 2
+* Jujutsu Kaisen
+* Infinite Mage
+* Mage: The Ascension
 
 This document is created by Quartz
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.

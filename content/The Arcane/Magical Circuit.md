@@ -1,0 +1,5 @@
+Inherently within all things of all scales there is the wiring of magic. Not to be confused with [[The Fold]], Magic Circuits are the realization of [[the Fold]] in our reality. Starting at the core, magic flows within set pathways within the circuit. The most common application of magical circuits are in creatures and magical artifacts, in other use cases, the general concepts still apply (with exceptions, I.E.: [[The Silver Commandment]]).
+The general concepts of magical circuits are:
+There is a core: A source or storage of arcane energy within a circuit, think of it as a battery.
+The "wiring" is where most modification happens, glyphs, sigils, and modification of the shape of the circuit itself shapes how the energy is interpreted and exported. Now this also depends on the energy within the core. Energy suffused with divinity will react differently than energy straight from [[The Fold]].
+Modifying the core, input energy, the wiring and lastly, how energy is expelled from the circuits is the basics of spellweaving, and magic item creation.
