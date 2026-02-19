@@ -15,6 +15,7 @@ Inspired by many different works including but not limited to:
 * Clair Obscure: Expedition 33
 * Wizard of Earthsea
 * Lovecraftian Fiction
+* Castlevania
 * Supreme Magus
 * Shadow Slave
 * Subnautica
