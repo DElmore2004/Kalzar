@@ -1,10 +1,16 @@
 Kinsu is the word used to denominate different cultures within [[The Shards of Eorza]]. 
 There are 5 Kinsu in the Shards of Eorza:
+
 [[Tempus]]: The Kinsu of Music and Dance
+
 [[Malai]]: The Kinsu of Nature and Balance
+
 [[Usol]]: The Kinsu of Faith and Belief
+
 [[Zahnel]]: The Kinsu of the Arcane
+
 [[Burun]]: The Kinsu of Folklore and Mysticism
+
 
 The Kinsu gather together to form [[The Mosaic]], a council of leaders that are the governing authority over [[The Shards of Eorza|the Shards]]. 
 
