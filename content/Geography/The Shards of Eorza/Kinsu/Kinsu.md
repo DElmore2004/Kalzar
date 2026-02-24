@@ -16,4 +16,4 @@ The Kinsu gather together to form [[The Mosaic]], a council of leaders that are 
 
 Individuals within the Kinsu are not locked to a pathway in life, nor are they required to remain in a single Kinsu. [[The Mosaic]] understands that as people age, their ideals, motivations, and aspirations change. 
 
-Mechanically, people in a Kinsu are not all the same "class" as the expectation. For example, in [[Tempus|Kinsu Tempus]], not everyone is a "Bard" in the traditional sense. As long as you hold music and dance at the center of their power, such as a Paladin or Seraph pushing the belief of music as a medium for changing the world, they would find a home in [[Tempus|Kinsu Tempus]]. 
+Mechanically, people in a Kinsu are not all the same "class" as the expectation. For example, in [[Tempus|Kinsu Tempus]], not everyone is a "Bard" in the traditional sense. As long as someone holds music and dance at the center of their power, such as a Paladin or Seraph pushing the belief of music as a medium for changing the world, they would find a home in [[Tempus|Kinsu Tempus]]. 
