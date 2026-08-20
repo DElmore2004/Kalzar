@@ -1,0 +1,2 @@
+Lukos typically presents as a young man with pale skin and medium length blond hair. He wears a dark red cloak with small black inscriptions. He has dark grey eyes and a pallid expression. 
+Lukos is a blight to the divine, he offsets the balance of magic by removing divinity from the local area. This makes it so that divine beings cannot perceive him.
