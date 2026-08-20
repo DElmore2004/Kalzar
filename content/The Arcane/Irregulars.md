@@ -9,4 +9,4 @@ Irregulars are individuals that, for a myriad of reasons, interact with [[The Fo
 The catch: There is always a drawback. All irregulars have an Achilles heel. Perhaps if you unravel the trauma of the irregular that is impervious, correct their worldview. Or you can allow the rebound of their spells to affect them, as an Irregular that steals magic cannot create their own, they cannot deal with possible rebound that comes with mishandling the minutiae of spellwork.
 
 Known Irregulars:
-We will fill these in as we discover them :)
+[[Lukos, The Divine Heretic]]
