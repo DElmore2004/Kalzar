@@ -1,0 +1,1 @@
+Due to the legend behind [[Sycath]], folklore has inspired fear over elemental creatures and the elements as a whole. 

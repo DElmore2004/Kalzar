@@ -11,3 +11,6 @@ I can tell stories to help calm [[Smith]] down so he doesn’t age as quickly
 Met [[Viv]] only recently (months ago)
 
 Ifnt height - Varying height, based around mood.
+
+## Updated in Current Timeline:
+Ifnt woke up while the party was in Oblivion. They tried to reach out to the party, but knew if they stayed here any longer, they could not muster the ability to leave again. The illusion shattered for an instant, allowing [[Maleah]]'s abilities to hold on to that, breaking herself from the illusion to start her prep to allow the rest of the group the choice to leave. Ifnt awoke with their memories of their past life with their past found family, but this time with a cold focus.
