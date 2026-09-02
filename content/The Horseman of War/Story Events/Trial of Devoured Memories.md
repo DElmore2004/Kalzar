@@ -15,22 +15,34 @@ She doesn't raise her voice. If anything, play her quieter than the room expects
 
 **Role in the scheme:** escorted "relocated" prisoners to a lower cell block that doesn't officially exist on any current map. **Demeanor:** Gruff, trying to hold it together, genuinely rattled by his own memory.
 
+
 **Opening exchange:**
 
+
 [[Grand Advocate Adair|Adair]]:** "State your posting." 
+
 **Osk:** "Guard Captain, east wing, palace detention. Twelve years." 
+
 **[[Grand Advocate Adair|Adair]]:** "And in that time, you oversaw prisoner transfers to the lower block."
+
 **Osk:** "I escorted them. I don't decide who goes. That's not — that was never my part of it."
+
 
 **Testimony:**
 
+
 **Osk:** "Prisoners marked for transfer, I walked them down myself. East stair, past the old armory, down to the lower block. I've done it more times than I can count. Never asked questions about relocations. Wasn't my place to ask."
+
 
 **The Gap (deliver this slowly, let it sit):**
 
-[[Grand Advocate Adair|Adair]]:** "And when you reached the bottom of the stair... what did you see?" 
+
+**[[Grand Advocate Adair|Adair]]**: "And when you reached the bottom of the stair... what did you see?" 
+
 **Osk:** [long pause, brow furrowing] "I— " [stops] "I know I got there. I know I turned around after and came back up, alone. What happens between the last step and the turning around, I—" [genuinely shaken, this is new to him too] "I can't give you that. That's not me holding it back. It isn't _there._"
+
 **[[Queen Ylindara]]:** [leaning forward, first real crack in her composure] "Explain yourself, Captain. A gap in memory is not an answer I will accept lightly."
+
 **Osk:** "I'm not lying to the crown... I wish I were. I'd rather have done something I could name than carry... this."
 
 **Pressure beat** (let a PC or Adair push):
@@ -45,7 +57,7 @@ If a PC speaks up:
 
 If not: 
 
-[[Queen Ylindara]]: [turns to the guard captain to her left, speaking soft enough to 'feign ignorance', but loud enough to be heard] "Kill him."
+**[[Queen Ylindara]]**: [turns to the guard captain to her left, speaking soft enough to 'feign ignorance', but loud enough to be heard] "Kill him."
 
 To which she does, right then, right there.
 
@@ -53,22 +65,35 @@ To which she does, right then, right there.
 
 **Role in the scheme:** amends population and tax rolls to erase names after "relocation," making disappearances administratively invisible. **Demeanor:** Precise, cold, sounds rehearsed until the gap breaks her composure for the first time in the whole trial.
 
+
 **Opening exchange:**
 
+
 **[[Grand Advocate Adair|Adair]]:** "You maintain the crown's population rolls for the Hollow ward and three others." 
+
 **Cale:** "I do. Births, deaths, transfers, corrections. The ledger is accurate to the day." 
-[[Grand Advocate Adair|Adair]]:** "Accurate. That is an interesting word for what we are about to show the tribunal."
+
+**[[Grand Advocate Adair|Adair]]**: "Accurate. That is an interesting word for what we are about to show the tribunal."
+
 **[[Queen Ylindara]]**: "Enough. Speak."
+
 
 **Testimony:**
 
+
 **Cale:** "I update the rolls as instructed by sealed order. Names come off, the ledger balances, the count is correct at quarter's end. It is administrative work. I do not decide who is removed, only that the record reflects it."
+
 
 **The Gap:**
 
+
  **[[Grand Advocate Adair|Adair]]:** "Clerk Cale, show the tribunal the amendment made to the Hollow ward roll, six months past." [She opens the ledger without hesitation, finds the page easily, then stops.] 
+
  **Cale:** "This is my hand. This is my seal beside it. I don't—" [flips back a page, then forward again, checking] "I have no memory of making this entry. Fourteen names struck in a single amendment. I remember every amendment I have ever filed. I do not remember this one." 
+ 
  **[[Queen Ylindara]]:** "You are the crown's own recordkeeper. Are you telling this court your own records defy your memory?" 
+ 
+ 
  **Cale:** [quietly, unsettled for the first time] "I am telling the court exactly that, Your Majesty, and I have no explanation for it that does not frighten me."
 
 **Pressure beat:**
@@ -80,29 +105,39 @@ To which she does, right then, right there.
 
 **Role in the scheme:** signs every transfer order; reports upward to people he still won't name; genuinely believes — or has convinced himself — that he was managing "state security," not feeding something he never asked about. **Demeanor:** Composed, lawyerly, tries to justify rather than deny — until it's clear he's being sacrificed, at which point his composure turns to something colder and more dangerous.
 
+
 **Opening exchange:**
 
+
 **[[Grand Advocate Adair|Adair]]:** "You are the signatory on every transfer order this tribunal has reviewed." 
+
 **Voss:** "I am. And I'll answer for every one of them." 
+
 **[[Grand Advocate Adair|Adair]]:** "Then answer."
 
 **Testimony:**
 
+
 **Voss:** "Every order I signed was in the interest of the crown's stability. Political disruptors. Chronic agitators. A handful of men and women too costly, or too dangerous, to try publicly. I made hard decisions so the crown wouldn't have to be seen making them. Any undersecretary in my chair would have done the same." 
+
 **[[Queen Ylindara]]:** "Do not presume to know what I would have done, Undersecretary." 
 The composure cracks. The pillars of the room bend, drawing swords of their own. The gorgeous stained glass behind her turns blood red. You can see Voss paling and the tiles under his knees begin to crack.
+
 **Voss:** "No, Your Majesty. I don't presume that at all."
 
 **The turn:** Voss is sharp enough to notice Adair steering the trial narrowly toward him and stopping there.
 
 **Voss:** [ignoring Adair entirely, addressing the queen directly] "Your Majesty. Before this goes further — ask your prosecutor who set the scope of today's proceeding. Ask him why only three names reached your ears, when my orders answer to a seal above my own." 
+
 **[[Grand Advocate Adair|Adair]]:** [sharp, cutting in] "The Undersecretary is stalling, Your Majesty, the scope of this tribunal was—" 
+
 **Voss:** [talking over him, louder now] "I did not build what was down that stair, Your Majesty. I found something already loose in the world and I made use of it, because it was useful and because no one asked me to do otherwise. That is my crime. I do not know what it is. I never wanted to know. I only know it does not run out of room."
 
 Pause.
 
 **[[Grand Advocate Adair|Adair]]:** "Your Majesty, I'd ask the tribunal not indulge a condemned man's attempt to muddy—" 
 **[[Queen Ylindara]]:** [cutting him off, cold] "I will decide what this tribunal indulges, Advocate." [to Voss] "Finish." 
+
 **Voss:** "There are others above me who know its keeping better than I ever did. I have never had their names, only their seals, and I burned every order after signing it, as I was told to. I can tell you this — there is a gathering, three nights from now, at the [[Starcross Hall]]. Masks, music, and a great deal of business no one will admit to in daylight. If you want the rest of this, Your Majesty, it will not come from this room. It will come from that one."
 
 A long pause is almost tanglible in the room.
