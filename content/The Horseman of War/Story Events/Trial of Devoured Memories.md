@@ -136,6 +136,7 @@ The composure cracks. The pillars of the room bend, drawing swords of their own.
 Pause.
 
 **[[Grand Advocate Adair|Adair]]:** "Your Majesty, I'd ask the tribunal not indulge a condemned man's attempt to muddy—" 
+
 **[[Queen Ylindara]]:** [cutting him off, cold] "I will decide what this tribunal indulges, Advocate." [to Voss] "Finish." 
 
 **Voss:** "There are others above me who know its keeping better than I ever did. I have never had their names, only their seals, and I burned every order after signing it, as I was told to. I can tell you this — there is a gathering, three nights from now, at the [[Starcross Hall]]. Masks, music, and a great deal of business no one will admit to in daylight. If you want the rest of this, Your Majesty, it will not come from this room. It will come from that one."
